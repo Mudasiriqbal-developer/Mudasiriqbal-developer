@@ -13,7 +13,7 @@
 ![Mudasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudasiriqbal-developer&show_icons=true&theme=radical)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=mudasiriqbal-developer&theme=dark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudasiriqbal-developer&layout=compact&theme=radical)
