@@ -1,9 +1,8 @@
 ## 📊 GitHub Stats:
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mudasiriqbal-developer&theme=radical" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=mudasiriqbal-developer&theme=radical)
+
 
 
 
