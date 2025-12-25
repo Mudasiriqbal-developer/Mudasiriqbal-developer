@@ -1,7 +1,10 @@
 ## 📊 GitHub Stats:
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudasiriqbal-developer&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mudasiriqbal-developer&theme=radical" />
+</p>
+
 
 
 
