@@ -1,5 +1,3 @@
-  # Hi 👋, I'm Mudasir Iqbal
-
 ## 📊 GitHub Stats:
 
 
