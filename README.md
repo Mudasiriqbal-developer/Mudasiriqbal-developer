@@ -1,10 +1,5 @@
 ## 📊 GitHub Stats:
-
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=mudasiriqbal-developer&theme=radical)
-
-
-
 
 
 ## Connect with me:
