@@ -1,5 +1,13 @@
 ## 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=mudasiriqbal-developer&theme=radical)
+
+**Primary (streak-stats):**
+![GitHub Streak](https://streak-stats.demolab.com?user=mudasiriqbal-developer&theme=radical&hide_border=true&background=0D1117&dates=DDDDDD&ring=DD2727&fire=DD2727&currStreakLabel=DD2727)
+
+**Alternative (github-readme-streak-stats):**
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=mudasiriqbal-developer&theme=radical&hide_border=true)
+
+**Fallback (streak-stats with forced refresh):**
+![GitHub Streak](https://streak-stats.demolab.com?user=mudasiriqbal-developer&theme=radical&date_format=j%20M%5B%20Y%5D&random=1)
 
 
 ## Connect with me:
